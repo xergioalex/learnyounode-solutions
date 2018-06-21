@@ -1,0 +1,19 @@
+{
+  "name": "learnyounode-solutions",
+  "version": "1.0.0",
+  "description": "Solutions for learnyounode workshop: https://github.com/workshopper/learnyounode",
+  "main": "01.hello_world.js",
+  "dependencies": {
+    "through2-map": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xergioalex/learnyounode-solutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xergioalex/learnyounode-solutions/issues"
+  },
+  "homepage": "https://github.com/xergioalex/learnyounode-solutions#readme"
+}
